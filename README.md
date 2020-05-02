@@ -6,3 +6,6 @@ Uses `seaborn`, `matplotlib`, `cv2`, `numpy` and `pandas` to generate the fake d
 - neuro activity in subsets of 5 neurons
 - 3d contour plots of acitivty change rate vs. image noise variance vs. time as a linear interpolation between two functions
 
+
+<img src='activity_output_fast.jpg'>
+
